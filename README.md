@@ -1,5 +1,4 @@
 # Rocket.sect
-<<<<<<< HEAD
 
 A homepage with a navigate bar and a text about the company
 
