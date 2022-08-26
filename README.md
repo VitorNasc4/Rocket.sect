@@ -1,4 +1,5 @@
 # Rocket.sect
+<<<<<<< HEAD
 
 A homepage with a navigate bar and a text about the company
 
@@ -48,3 +49,11 @@ I study software development since January 2022 and can work both on Back-end an
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-marciano/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/marciano_vitor)
+=======
+
+## Descrição
+Homepage criada a partir do Figma disponibilizado no Stage 02 do programa Rocketseat Explorer
+
+## Links úteis
+[Figma da homepage](https://www.figma.com/file/nY7fL0bp1riKTQalMA4niG/Explorer-(Copy)?node-id=0%3A1)
+>>>>>>> 3832ef402d8763e3d4578a6ca51283488b88b0b1
