@@ -16,7 +16,7 @@ A homepage with a navigate bar and a text about the company
  
 ## Demonstration
 
-[Homepage print](https://imgur.com/a/1Ad9ibN)
+![Print](https://user-images.githubusercontent.com/101666833/186991104-98b450dd-59d3-4d7e-8962-1ff2d85de9d0.png)
 
 ## References
 
